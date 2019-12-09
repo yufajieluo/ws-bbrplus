@@ -2,7 +2,7 @@
 ## 1.安装BBRPLUS
 ### 1.1 安装内核
 ```
-https://raw.githubusercontent.com/yufajieluo/vps/master/bbrplus/kernel-4.14.129-bbrplus.rpm
+https://raw.githubusercontent.com/yufajieluo/ws-bbrplus/master/kernel-4.14.129-bbrplus.rpm
 
 yum install -y kernel-4.14.129-bbrplus.rpm
 ```
